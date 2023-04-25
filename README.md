@@ -1,4 +1,4 @@
-# BM HANNA
+# BM HANNA 11yrs
 
 [Visit Source](https://www.woowahan.com/fonts)
 
@@ -7,7 +7,7 @@
 CSS
 
 ```
-font-family: 'BM HANNA';
+font-family: 'BM HANNA 11yrs';
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'BM HANNA';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA/BMHANNA.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA11yrs/BMHANNA11yrs.css" type="text/css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA/BMHANNA.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA11yrs/BMHANNA11yrs.css');
 ```
 
 &nbsp;
@@ -32,13 +32,13 @@ font-face
 
 ```
 @font-face {
-    font-family: 'BM HANNA';
+    font-family: 'BM HANNA 11yrs';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA/BMHANNA.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA/BMHANNA.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA/BMHANNA.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA/BMHANNA.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA11yrs/BMHANNA11yrs.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA11yrs/BMHANNA11yrs.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA11yrs/BMHANNA11yrs.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/BMHANNA11yrs/BMHANNA11yrs.ttf') format('truetype');
 }
 ```
